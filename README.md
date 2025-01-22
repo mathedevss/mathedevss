@@ -1,12 +1,9 @@
 # 👋 Hello, My name is Matheus Medeiros!
-## About Me
-### English
 
-Hi, my name is Matheus Medeiros. I'm a 2nd-semester student in Internet Systems at the Catholic University of Pernambuco. I'm dedicated to becoming a Back-end developer and always looking for new challenges and opportunities to expand my knowledge.
-
-### Português
-
-Olá, meu nome é Matheus Medeiros. Sou estudante do 2º período de Sistemas para Internet na Universidade Católica de Pernambuco. Estou me dedicando aos estudos para me tornar um desenvolvedor Back-end e estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
+- 🎓 2nd-semester Internet Systems student at the Catholic University of Pernambuco (UNICAP).  
+- 💻 Focused on becoming a Back-end Developer and constantly seeking new challenges.  
+- ⚙️ Experienced in C#, Python, .NET, MongoDB, SQL, and building APIs with C#.  
+- 🚀 Passionate about technology, problem-solving, and continuous learning.
 
 ## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
